@@ -1,0 +1,17 @@
+Hasin,Haydar,10,11,B
+Rabbil,Hasan,12,8,A
+Faisal,Ahmed,9,9,AFaijul, Amin, 5, 10, A
+Rakibul, Hasan, 6, 14, B
+Jahidul, Sujon, 4, 32, A
+Sajjadul, Alam, 3, 33, A
+Razu, Alam, 10, 1, A
+Eimran, Hossain, 11, 2, C
+Moshiur, Rahman, 12, 100, B
+Ayman, Sadik, 12, 10, B
+Salman, Muktadir, 11, 14, B
+Hero, Alam, 8, 40, B
+Nazmul, Pranto, 5, 53, A
+Alamin, Sharif, 7, 88, D
+Hasin,Haydar,10,11,B
+Rabbil,Hasan,12,8,A
+Faisal,Ahmed,9,9,A

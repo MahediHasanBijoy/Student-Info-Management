@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header{
+    text-align: center;
+    color: darkorchid;
+}
+
+.container,
+.data{
+    margin: 40px auto;
+    padding: 25px;
+    max-width: 40%;
+    background-color: antiquewhite;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px -3px rgba(0,0,0,0.75);
+-webkit-box-shadow: 0px 0px 10px -3px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 0px 10px -3px rgba(0,0,0,0.75);
+}
+
+table{
+    width: 100%;
+    border: 1px solid white;
+    border-radius: 5px;
+    padding:10px;
+    background-color: white;
+    box-shadow: 0px 0px 10px -3px rgba(0,0,0,0.75) inset;
+-webkit-box-shadow: 0px 0px 10px -3px rgba(0,0,0,0.75) inset;
+-moz-box-shadow: 0px 0px 10px -3px rgba(0,0,0,0.75) inset;
+}
+th,td{
+    
+    text-align: left;
+    padding-left: 10px;
+}
+
+.title{
+    font-size: 20px;
+    font-weight: 600;
+    margin:10px;
+
+}
+.format{
+    padding: 5px 10px;
+    margin-bottom: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0px 0px 8px -3px rgba(0,0,0,0.75) inset;
+-webkit-box-shadow: 0px 0px 8px -3px rgba(0,0,0,0.75) inset;
+-moz-box-shadow: 0px 0px 8px -3px rgba(0,0,0,0.75) inset;
+}
+
+label{
+    margin: 10px 0;
+}
+
+input{
+    margin:10px 0;
+}
+
+.caption{
+    font-size: 18px;
+    font-weight: 500;
+}
+button{
+    margin: 10px 0;
+    background-color:blueviolet;
+    color: #fff;
+    padding: 5px 10px 5px 5px;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+}
+
+button:hover{
+    background-color: darkorchid;
+}
+
+@media screen and (max-width: 740px) {
+    .container{
+        max-width:70%;
+    }
+}
