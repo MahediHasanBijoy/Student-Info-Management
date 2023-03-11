@@ -24,7 +24,5 @@ I have learned file system in php and how to use them as temporary data storage.
 - Used file as storage of information
 
 
-## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
